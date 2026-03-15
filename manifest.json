@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "description": "This app is a Income Tracker for working peoples",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "IncomeTracker",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "IncomeTracker",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "lang": "en"
+}
